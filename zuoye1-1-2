@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>submit successfully</title>
+</head>
+<body background="http://img.pconline.com.cn/images/upload/upc/tx/wallpaper/1205/18/c1/11665534_1337330220058.jpg">
+<br />
+<br />
+<br />
+<br />
+<br />	
+<p><h1 align="center"><em>Submit successfully!<br />Clicking the button so you can return to the homepage.
+</h1></em>
+<br />
+<br />
+<br />
+<br />
+<a href="USTV.html"target="_blank">
+<form>
+	<h3 align="center">
+	<input type="button" value="Return to the homepage"></h3>
+</form></a>
+</p>
+</body>	
+	
+</html>
