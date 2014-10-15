@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>LOG IN </title>
+</head>
+<body background="http://img.article.pchome.net/00/54/85/54/pic_lib/wm/1.jpg">
+<p>
+
+	<h1 align="center">WELCOME TO JOIN THE INVESTIGATION OF WWW.52USTV.COM! 
+	<br  />PLEASE LOG IN.</h1>
+
+</p>
+<br   />
+<br   />
+<br   />
+<br   />
+<form><h2 align="center">
+USER:
+<input type="text"	name="user">
+<br  />
+PASSWORD:
+<input type="password" name="password">
+</h2>
+</form>
+<br  />
+<h3 align="center">
+<p>	
+	<a href="investigation.html"target="_blank">ENTER</a>
+</p>
+
+</body>	
+	
+</html>
