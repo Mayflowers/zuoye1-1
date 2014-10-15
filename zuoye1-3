@@ -1,0 +1,22 @@
+<html>
+<head>
+	<title>SENDING E-MAIL</title>
+</head>
+<body background="http://img1.pconline.com.cn/piclib/200903/06/batch/1/26255/1236271684282ls0ug605iw.jpg">
+	<form action="MAILTO:someone@www.52USTV.com.cn"method="post"enctype="text/plain">
+<h1 align="center"><br /><br /><br />
+NAME:<br />
+<input type="text" name="name" value="yourname" size=20>		
+<br />
+MAIL ADRESS:<br />
+<input type="text" name="mail" value="yourmail" size="20">
+<br />
+CONTENT:<br />
+<input type="text" name="comment" value="yourcomment" size="40" >
+<br /><br />
+<a href="USTV.html"><input type="button" value="SEND"></a>
+<input type="reset" value="RESET">		
+	</form>
+</h1>
+</body>
+</html>
