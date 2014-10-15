@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>THE INVESTIGATION OF 52USTV</title>
+</head>
+<body background="http://attach.bbs.miui.com/forum/201208/19/151507iv2bvp52vevppqzp.jpg">
+<p>
+	<h1 align="center">WELCOME TO THE INVESTIGATION OF WWW.52USTV.COM!</h1>
+</p>
+
+<form><h2>
+NATIONALITY:
+<input type="text" nationality="nationality">	  
+NAME:
+<input type="text" name="name">              
+AGE:
+<input type="number" age="age"><br  />
+MALE:
+<input type="radio" checked="checked" name="sex" value="male" />
+FEMALE:
+<input type="radio"  name="sex" value="female" />
+</h2><br  />
+</form>
+<form><h3>
+	<fieldset>
+		<legend>INFORMATION OF YOUR HEALTH</legend>
+		HEIGHT:<input type="text" />
+		WEIGHT:<input type="text" />
+	</fieldset></h3>
+</form><br  />	
+
+<p><h3>1.WHAT KINDS OF TV SERIES DO YOU LIKE?
+<br  /></p>
+<ul>
+<form><h5>
+
+	<li>AMERICAN TV SERIES:
+	<input type="checkbox" name="US"></li><br  />
+	<li>CHINESE TV SERIES:
+	<input type="checkbox" name="CHINA"></li><br  />
+	<li>KOREAN TV SERIES:
+	<input type="checkbox" name="KOREA"></li><br  />
+	<li>JAPANESE TV SERIES:
+	<input type="checkbox" name="JAPAN"></li><br  />
+	<li>HONGKONG TV SERIES:
+	<input type="checkbox" name="HK"></li><br  />
+    <li>EUROPEAN TV SERIES:
+	<input type="checkbox" name="EUR"></li><br  />
+	<li>OTHERS' TV SERIES:
+	<input type="checkbox" name="OTHER"></li><br  />
+    
+</h5>
+</form><br  />
+</ul>
+<p><h3>2.YOU KNOW THE 52USTV.COM THROUGH:
+<br  /></p>
+<ul>
+<form><h5>
+
+	<li>NEWSPAPERS:
+	<input type="checkbox" name="N"></li><br  />
+	<li>FRIENDS TELL ME:
+	<input type="checkbox" name="F"></li><br  />
+	<li>FIND IT WHILE I AM INTERNETING:
+	<input type="checkbox" name="I"></li><br  />
+	<li>THOUGHTLESS:
+	<input type="checkbox" name="T"></li><br  />
+	<li>I ALREADY KNOWN IT:
+	<input type="checkbox" name="A"></li><br  />
+    
+</h5>
+</form><br  />
+</ul>
+
+<h3>3.DO YOU LIKE THE 52USTV.COM?
+<br  /></p>
+<ul>
+<form><h5>
+
+	<li>YES, I THINK IT CAN HELP ME ENJOY THE US TV SERIES:
+	<input type="checkbox" name="Y"></li><br  />
+	<li>NO, I THINK IT SHOULD BE IMPROVED GREATLY:
+	<input type="checkbox" name="N"></li><br  />
+	<li>I DON'T KNOW:
+	<input type="checkbox" name="D"></li><br  />
+</h5>
+</form><br  />
+</ul>
+
+<h3>4.WHEN DO YOU USUALLY WATCH THE TV SERIES?
+<br  /></p>
+
+<ul>
+<form><h4>
+<select name="date">
+<option value="Monday">Monday</option>
+<option value="Tuesday">Tuesday</option>
+<option value="Wednesday">Wednesday</option>
+<option value="Thursday">Thursday</option>
+<option value="Friday" selected="selected">Friday</option>
+<option value="Saturday">Saturday</option>
+<option value="Sunday">Sunday</option>
+</select>	
+</form></h4>
+
+<h3>5.SUGGESTIONS.</h3>
+<br  /></p>
+<textarea cols="30" rows="5">
+   We wlii appreciate it if you could give us any suggestions, your experience which got through broswing the 52USTV.COM would become our most cherish treasure. Thank you!
+
+</textarea><br  />
+
+<p><h3>The investigation has been finished perfectly, thank you very much! Click the button below the text and your answers will be uploaded. <br /></h3></p>
+
+<a href="SUBMIT.html"target="_blank"><form>
+	<input type="button" value="Submit the questionnaire">
+</form></a>
+</body>	
+	
+</html>
